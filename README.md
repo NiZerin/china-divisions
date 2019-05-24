@@ -14,7 +14,7 @@
 使用方法十分简单，首先使用 Composer 安装。
 
 ```bash
-composer require NiZerin/china-divisions
+composer require nizerin/china-divisions
 ```
 
 方法概览如下：
