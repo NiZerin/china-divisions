@@ -1,5 +1,5 @@
 {
-    "name": "NiZerin/china-divisions",
+    "name": "nizerin/china-divisions",
     "description": "中国行政区划地址库 SDK + 爬虫 + 数据。",
     "type": "library",
     "require": {
@@ -10,7 +10,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "NiZerin",
+            "name": "nizerin",
             "email": "nizerin98@gmail.com"
         }
     ],
